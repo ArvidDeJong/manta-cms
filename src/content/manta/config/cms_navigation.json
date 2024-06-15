@@ -1,0 +1,90 @@
+{
+    "modules": [
+        {
+            "active": false,
+            "title": "Agenda",
+            "route": "agenda.list",
+            "location": null
+        },
+        {
+            "active": true,
+            "title": "Services",
+            "route": "news.list",
+            "location": null
+        },
+        {
+            "active": false,
+            "title": "Contact",
+            "route": "contact.list",
+            "location": "top"
+        },
+        {
+            "active": true,
+            "title": "Contactpersonen",
+            "route": "contactperson.list",
+            "location": null
+        },
+        {
+            "active": false,
+            "title": "Huizen",
+            "route": "house.list",
+            "location": null
+        },
+        {
+            "active": true,
+            "title": "Producten",
+            "route": "product.list",
+            "location": null
+        },
+        {
+            "active": true,
+            "title": "Tekstpagina's",
+            "route": "page.list",
+            "location": null
+        },
+        {
+            "active": false,
+            "title": "Veelgestelde vragen",
+            "route": "faq.list",
+            "location": "bottom"
+        }
+    ],
+    "tools": [
+        {
+            "active": true,
+            "title": "Gebruikers",
+            "route": "staff.list",
+            "location": null
+        },
+        {
+            "active": true,
+            "title": "Instellingen",
+            "route": "cms.options",
+            "location": null
+        },
+        {
+            "active": true,
+            "title": "Klanten",
+            "route": "user.list",
+            "location": null
+        },
+        {
+            "active": true,
+            "title": "Route SEO",
+            "route": "routeseo.list",
+            "location": null
+        },
+        {
+            "active": true,
+            "title": "Zandbak",
+            "route": "cms.sandbox",
+            "location": null
+        },
+        {
+            "active": true,
+            "title": "ChatGPT",
+            "route": "chatgpt.chat",
+            "location": null
+        }
+    ]
+}
