@@ -1,7 +1,8 @@
 {
-    "name": "darvis/manta-cms",
+    "name": "manta/manta-cms",
     "description": "Een Laravel package om een map te kopiëren naar de root.",
     "type": "library",
+    "version": "0.1.0",
     "autoload": {
         "psr-4": {
             "Manta\\MantaCms\\": "src/"
